@@ -1,0 +1,10 @@
+.contact {
+  padding: 100px 8%;
+  background-color: var(--bg-section);
+  text-align: center;
+}
+
+.contact h2 { font-size: clamp(30px, 4vw, 38px); margin-bottom: 22px; }
+.contact p { color: var(--text-muted); line-height: 1.8; margin-bottom: 18px; }
+.contact-buttons { justify-content: center; margin-top: 28px; }
+.footer { text-align: center; padding: 28px 8%; background-color: var(--bg-deep); color: var(--text-muted); border-top: 1px solid var(--border-soft); }
