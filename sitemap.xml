@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+    <url>
+        <loc>https://jagdishpoudel.com/</loc>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://jagdishpoudel.com/projects/multi-platform-linux-lab.html</loc>
+        <priority>0.8</priority>
+    </url>
+
+    <url>
+        <loc>https://jagdishpoudel.com/projects/smb-file-sharing.html</loc>
+        <priority>0.8</priority>
+    </url>
+
+</urlset>
